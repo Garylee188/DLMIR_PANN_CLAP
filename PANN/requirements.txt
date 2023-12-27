@@ -1,0 +1,11 @@
+h5py
+ipython
+librosa
+matplotlib
+numpy
+pandas
+scikit_learn
+scipy
+SoundFile
+torch
+torchlibrosa
